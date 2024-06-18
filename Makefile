@@ -1,0 +1,6 @@
+unittest:
+	@go test -v ./...
+
+unittest-coverage:
+	@go test -coverprofile cover.out -v ./...
+	@go tool cover -html=cover.out

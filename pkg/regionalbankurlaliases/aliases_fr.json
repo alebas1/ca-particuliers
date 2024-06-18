@@ -1,0 +1,507 @@
+{
+    "01": {
+        "name": "Ain",
+        "internalName": "Centre-est",
+        "alias": "ca-centrest"
+    },
+    "02": {
+        "name": "Aisne",
+        "internalName": "Nord Est",
+        "alias": "ca-nord-est"
+    },
+    "03": {
+        "name": "Allier",
+        "internalName": "Centre France",
+        "alias": "ca-centrefrance"
+    },
+    "04": {
+        "name": "Alpes-de-Haute-Provence",
+        "internalName": "Provence C\u00f4te d'Azur",
+        "alias": "ca-pca"
+    },
+    "05": {
+        "name": "Hautes-Alpes",
+        "internalName": "Alpes Provence",
+        "alias": "ca-alpesprovence"
+    },
+    "06": {
+        "name": "Alpes-Maritimes",
+        "internalName": "Provence C\u00f4te d'Azur",
+        "alias": "ca-pca"
+    },
+    "07": {
+        "name": "Ard\u00e8che",
+        "internalName": "Sud Rh\u00f4ne Alpes",
+        "alias": "ca-sudrhonealpes"
+    },
+    "08": {
+        "name": "Ardennes",
+        "internalName": "Nord Est",
+        "alias": "ca-nord-est"
+    },
+    "09": {
+        "name": "Ari\u00e8ge",
+        "internalName": "Sud M\u00e9diterran\u00e9e",
+        "alias": "ca-sudmed"
+    },
+    "10": {
+        "name": "Aube",
+        "internalName": "Champagne-Bourgogne",
+        "alias": "ca-cb"
+    },
+    "11": {
+        "name": "Aude",
+        "internalName": "Languedoc",
+        "alias": "ca-languedoc"
+    },
+    "12": {
+        "name": "Aveyron",
+        "internalName": "Nord Midi Pyr\u00e9n\u00e9es",
+        "alias": "ca-nmp"
+    },
+    "13": {
+        "name": "Bouches-du-Rh\u00f4ne",
+        "internalName": "Alpes Provence",
+        "alias": "ca-alpesprovence"
+    },
+    "14": {
+        "name": "Calvados",
+        "internalName": "Normandie",
+        "alias": "ca-normandie"
+    },
+    "15": {
+        "name": "Cantal",
+        "internalName": "Centre France",
+        "alias": "ca-centrefrance"
+    },
+    "16": {
+        "name": "Charente",
+        "internalName": "Charente-P\u00e9rigord",
+        "alias": "ca-charente-perigord"
+    },
+    "17": {
+        "name": "Charente-Maritime",
+        "internalName": "Charente-Maritime Deux-S\u00e8vres",
+        "alias": "ca-cmds"
+    },
+    "18": {
+        "name": "Cher",
+        "internalName": "Centre Loire",
+        "alias": "ca-centreloire"
+    },
+    "19": {
+        "name": "Corr\u00e8ze",
+        "internalName": "Centre France",
+        "alias": "ca-centrefrance"
+    },
+    "21": {
+        "name": "C\u00f4te-d'Or",
+        "internalName": "Champagne-Bourgogne",
+        "alias": "ca-cb"
+    },
+    "22": {
+        "name": "C\u00f4tes-d'Armor",
+        "internalName": "C\u00f4tes d'Armor",
+        "alias": "ca-cotesdarmor"
+    },
+    "23": {
+        "name": "Creuse",
+        "internalName": "Centre France",
+        "alias": "ca-centrefrance"
+    },
+    "24": {
+        "name": "Dordogne",
+        "internalName": "Charente-P\u00e9rigord",
+        "alias": "ca-charente-perigord"
+    },
+    "25": {
+        "name": "Doubs",
+        "internalName": "Franche-Comt\u00e9",
+        "alias": "ca-franchecomte"
+    },
+    "26": {
+        "name": "Dr\u00f4me",
+        "internalName": "Sud Rh\u00f4ne Alpes",
+        "alias": "ca-sudrhonealpes"
+    },
+    "27": {
+        "name": "Eure",
+        "internalName": "Normandie-Seine",
+        "alias": "ca-normandie-seine"
+    },
+    "28": {
+        "name": "Eure-et-Loir",
+        "internalName": "Val de France",
+        "alias": "ca-valdefrance"
+    },
+    "29": {
+        "name": "Finist\u00e8re",
+        "internalName": "Finist\u00e8re",
+        "alias": "ca-finistere"
+    },
+    "2A": {
+        "name": "Corse-du-Sud",
+        "internalName": "Corse",
+        "alias": "ca-corse"
+    },
+    "2B": {
+        "name": "Haute-Corse",
+        "internalName": "Corse",
+        "alias": "ca-corse"
+    },
+    "30": {
+        "name": "Gard",
+        "internalName": "Languedoc",
+        "alias": "ca-languedoc"
+    },
+    "31": {
+        "name": "Haute-Garonne",
+        "internalName": "Toulouse 31",
+        "alias": "ca-toulouse"
+    },
+    "32": {
+        "name": "Gers",
+        "internalName": "Pyr\u00e9n\u00e9es Gascogne",
+        "alias": "ca-pyrenees-gascogne"
+    },
+    "33": {
+        "name": "Gironde",
+        "internalName": "Aquitaine",
+        "alias": "ca-aquitaine"
+    },
+    "34": {
+        "name": "H\u00e9rault",
+        "internalName": "Languedoc",
+        "alias": "ca-languedoc"
+    },
+    "35": {
+        "name": "Ille-et-Vilaine",
+        "internalName": "Ille-et-Vilaine",
+        "alias": "ca-illeetvilaine"
+    },
+    "36": {
+        "name": "Indre",
+        "internalName": "Centre Ouest",
+        "alias": "ca-centreouest"
+    },
+    "37": {
+        "name": "Indre-et-Loire",
+        "internalName": "Touraine et Poitou",
+        "alias": "ca-tourainepoitou"
+    },
+    "38": {
+        "name": "Is\u00e8re",
+        "internalName": "Sud Rh\u00f4ne Alpes",
+        "alias": "ca-sudrhonealpes"
+    },
+    "39": {
+        "name": "Jura",
+        "internalName": "Franche-Comt\u00e9",
+        "alias": "ca-franchecomte"
+    },
+    "40": {
+        "name": "Landes",
+        "internalName": "Aquitaine",
+        "alias": "ca-aquitaine"
+    },
+    "41": {
+        "name": "Loir-et-Cher",
+        "internalName": "Val de France",
+        "alias": "ca-valdefrance"
+    },
+    "42": {
+        "name": "Loire",
+        "internalName": "Loire Haute-Loire",
+        "alias": "ca-loirehauteloire"
+    },
+    "43": {
+        "name": "Haute-Loire",
+        "internalName": "Loire Haute-Loire",
+        "alias": "ca-loirehauteloire"
+    },
+    "44": {
+        "name": "Loire-Atlantique",
+        "internalName": "Atlantique Vend\u00e9e",
+        "alias": "ca-atlantique-vendee"
+    },
+    "45": {
+        "name": "Loiret",
+        "internalName": "Centre Loire",
+        "alias": "ca-centreloire"
+    },
+    "46": {
+        "name": "Lot",
+        "internalName": "Nord Midi Pyr\u00e9n\u00e9es",
+        "alias": "ca-nmp"
+    },
+    "47": {
+        "name": "Lot-et-Garonne",
+        "internalName": "Aquitaine",
+        "alias": "ca-aquitaine"
+    },
+    "48": {
+        "name": "Loz\u00e8re",
+        "internalName": "Languedoc",
+        "alias": "ca-languedoc"
+    },
+    "49": {
+        "name": "Maine-et-Loire",
+        "internalName": "Anjou et Maine",
+        "alias": "ca-anjou-maine"
+    },
+    "50": {
+        "name": "Manche",
+        "internalName": "Normandie",
+        "alias": "ca-normandie"
+    },
+    "51": {
+        "name": "Marne",
+        "internalName": "Nord Est",
+        "alias": "ca-nord-est"
+    },
+    "52": {
+        "name": "Haute-Marne",
+        "internalName": "Champagne-Bourgogne",
+        "alias": "ca-cb"
+    },
+    "53": {
+        "name": "Mayenne",
+        "internalName": "Anjou et Maine",
+        "alias": "ca-anjou-maine"
+    },
+    "54": {
+        "name": "Meurthe-et-Moselle",
+        "internalName": "Lorraine",
+        "alias": "ca-lorraine"
+    },
+    "55": {
+        "name": "Meuse",
+        "internalName": "Lorraine",
+        "alias": "ca-lorraine"
+    },
+    "56": {
+        "name": "Morbihan",
+        "internalName": "Morbihan",
+        "alias": "ca-morbihan"
+    },
+    "57": {
+        "name": "Moselle",
+        "internalName": "Lorraine",
+        "alias": "ca-lorraine"
+    },
+    "58": {
+        "name": "Ni\u00e8vre",
+        "internalName": "Centre Loire",
+        "alias": "ca-centreloire"
+    },
+    "59": {
+        "name": "Nord",
+        "internalName": "Nord de France",
+        "alias": "ca-norddefrance"
+    },
+    "60": {
+        "name": "Oise",
+        "internalName": "Brie Picardie",
+        "alias": "ca-briepicardie"
+    },
+    "61": {
+        "name": "Orne",
+        "internalName": "Normandie",
+        "alias": "ca-normandie"
+    },
+    "62": {
+        "name": "Pas-de-Calais",
+        "internalName": "Nord de France",
+        "alias": "ca-norddefrance"
+    },
+    "63": {
+        "name": "Puy-de-D\u00f4me",
+        "internalName": "Centre France",
+        "alias": "ca-centrefrance"
+    },
+    "64": {
+        "name": "Pyr\u00e9n\u00e9es-Atlantiques",
+        "internalName": "Pyr\u00e9n\u00e9es Gascogne",
+        "alias": "ca-pyrenees-gascogne"
+    },
+    "65": {
+        "name": "Hautes-Pyr\u00e9n\u00e9es",
+        "internalName": "Pyr\u00e9n\u00e9es Gascogne",
+        "alias": "ca-pyrenees-gascogne"
+    },
+    "66": {
+        "name": "Pyr\u00e9n\u00e9es-Orientales",
+        "internalName": "Sud M\u00e9diterran\u00e9e",
+        "alias": "ca-sudmed"
+    },
+    "67": {
+        "name": "Bas-Rhin",
+        "internalName": "Alsace Vosges",
+        "alias": "ca-alsace-vosges"
+    },
+    "68": {
+        "name": "Haut-Rhin",
+        "internalName": "Alsace Vosges",
+        "alias": "ca-alsace-vosges"
+    },
+    "69": {
+        "name": "Rh\u00f4ne et m\u00e9tropole de Lyon",
+        "internalName": "Centre-est",
+        "alias": "ca-centrest"
+    },
+    "70": {
+        "name": "Haute-Sa\u00f4ne",
+        "internalName": "Franche-Comt\u00e9",
+        "alias": "ca-franchecomte"
+    },
+    "71": {
+        "name": "Sa\u00f4ne-et-Loire",
+        "internalName": "Centre-est",
+        "alias": "ca-centrest"
+    },
+    "72": {
+        "name": "Sarthe",
+        "internalName": "Anjou et Maine",
+        "alias": "ca-anjou-maine"
+    },
+    "73": {
+        "name": "Savoie",
+        "internalName": "Savoie",
+        "alias": "ca-des-savoie"
+    },
+    "74": {
+        "name": "Haute-Savoie",
+        "internalName": "Savoie",
+        "alias": "ca-des-savoie"
+    },
+    "75": {
+        "name": "Paris",
+        "internalName": "\u00cele-de-France",
+        "alias": "ca-paris"
+    },
+    "76": {
+        "name": "Seine-Maritime",
+        "internalName": "Normandie-Seine",
+        "alias": "ca-normandie-seine"
+    },
+    "77": {
+        "name": "Seine-et-Marne",
+        "internalName": "Brie Picardie",
+        "alias": "ca-briepicardie"
+    },
+    "78": {
+        "name": "Yvelines",
+        "internalName": "\u00cele-de-France",
+        "alias": "ca-paris"
+    },
+    "79": {
+        "name": "Deux-S\u00e8vres",
+        "internalName": "Charente-Maritime Deux-S\u00e8vres",
+        "alias": "ca-cmds"
+    },
+    "80": {
+        "name": "Somme",
+        "internalName": "Brie Picardie",
+        "alias": "ca-briepicardie"
+    },
+    "81": {
+        "name": "Tarn",
+        "internalName": "Nord Midi Pyr\u00e9n\u00e9es",
+        "alias": "ca-nmp"
+    },
+    "82": {
+        "name": "Tarn-et-Garonne",
+        "internalName": "Nord Midi Pyr\u00e9n\u00e9es",
+        "alias": "ca-nmp"
+    },
+    "83": {
+        "name": "Var",
+        "internalName": "Provence C\u00f4te d'Azur",
+        "alias": "ca-pca"
+    },
+    "84": {
+        "name": "Vaucluse",
+        "internalName": "Alpes Provence",
+        "alias": "ca-alpesprovence"
+    },
+    "85": {
+        "name": "Vend\u00e9e",
+        "internalName": "Atlantique Vend\u00e9e",
+        "alias": "ca-atlantique-vendee"
+    },
+    "86": {
+        "name": "Vienne",
+        "internalName": "Touraine et Poitou",
+        "alias": "ca-tourainepoitou"
+    },
+    "87": {
+        "name": "Haute-Vienne",
+        "internalName": "Centre Ouest",
+        "alias": "ca-centreouest"
+    },
+    "88": {
+        "name": "Vosges",
+        "internalName": "Alsace Vosges",
+        "alias": "ca-alsace-vosges"
+    },
+    "89": {
+        "name": "Yonne",
+        "internalName": "Champagne-Bourgogne",
+        "alias": "ca-cb"
+    },
+    "90": {
+        "name": "Territoire de Belfort",
+        "internalName": "Franche-Comt\u00e9",
+        "alias": "ca-franchecomte"
+    },
+    "91": {
+        "name": "Essonne",
+        "internalName": "\u00cele-de-France",
+        "alias": "ca-paris"
+    },
+    "92": {
+        "name": "Hauts-de-Seine",
+        "internalName": "\u00cele-de-France",
+        "alias": "ca-paris"
+    },
+    "93": {
+        "name": "Seine-Saint-Denis",
+        "internalName": "\u00cele-de-France",
+        "alias": "ca-paris"
+    },
+    "94": {
+        "name": "Val-de-Marne",
+        "internalName": "\u00cele-de-France",
+        "alias": "ca-paris"
+    },
+    "95": {
+        "name": "Val-d'Oise",
+        "internalName": "\u00cele-de-France",
+        "alias": "ca-paris"
+    },
+    "971": {
+        "name": "Guadeloupe",
+        "internalName": "Guadeloupe",
+        "alias": "ca-guadeloupe"
+    },
+    "972": {
+        "name": "Martinique",
+        "internalName": "Martinique et Guyane",
+        "alias": "ca-martinique"
+    },
+    "973": {
+        "name": "Guyane",
+        "internalName": "Martinique et Guyane",
+        "alias": "ca-martinique"
+    },
+    "974": {
+        "name": "La R\u00e9union",
+        "internalName": "La R\u00e9union",
+        "alias": "ca-reunion"
+    },
+    "976": {
+        "name": "Mayotte",
+        "internalName": "La R\u00e9union",
+        "alias": "ca-reunion"
+    }
+}
