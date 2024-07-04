@@ -3,3 +3,9 @@
 
 # Coverage
 *.out
+
+# env
+.env
+
+# ca-particuliers is a library
+vendor
